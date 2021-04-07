@@ -1,0 +1,85 @@
+.section{
+	margin-left: 30px;
+	margin-right: 30px
+}
+.paragraphe{
+	line-height:30px; 
+	text-align:justify;
+}
+.separateur{
+	margin-top:20px;
+	border-top: 2px dotted black
+}
+.tableau{
+	width:50%
+}
+.tableau td{
+	padding:5px
+}
+.tableau span{
+	color:grey;
+	font-size:12px
+}
+.formation_img{
+	width:120px;
+	height: 80px
+}
+.progression{
+	width:400px;
+	height: 50px;
+}
+
+.ctr_img{
+	width:120px;
+	height: 100px
+}
+.res_sosciaux{
+	width:30px;
+	height: 30px
+}
+.lien_res{
+	margin-right: 20px
+}
+
+.lang_level{
+	width:25px;
+	height: 25px;
+	margin-right:5px;
+}
+.lang_img{
+	width:20px;
+	height: 20px;
+	margin-right:10px;
+
+}
+
+#entete_header{
+	background: linear-gradient(to right, #e66465, #9198e5);
+	height: 100px
+}
+#entete_footer{
+	background-color: #9198e5; 
+	height: 30px; margin-top: 5px; 
+	box-shadow:3px 3px 5px 6px #ccc
+}
+#photo_cv{
+	height: 150px;
+	width: 150px;
+	float: right;
+	border:5px solid white;
+	border-radius:100px;
+	margin-right:30px;
+	margin-top:-100px
+}
+#telecharger_btn{
+	height:40px;
+	background-color:#e66465;
+	color: white;
+	border-radius:10px;
+	border :none;
+	width:100%;
+	font-size:16px
+}
+#centre_interet td{
+	text-align: center
+}
